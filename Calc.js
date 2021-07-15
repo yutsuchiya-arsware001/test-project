@@ -5,4 +5,7 @@ export default class Calc {
   minus() {
     return x - y;
   }
+  divide(a, b) {
+    return a / b
+  }
 }
